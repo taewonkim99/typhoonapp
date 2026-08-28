@@ -1,0 +1,12 @@
+name: TyphoonHitKorea
+title: TyphoonHitKorea
+username: transformertk
+account: transformertk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10788733
+bundleId: 8043758
+url: https://transformertk.shinyapps.io/TyphoonHitKorea/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
